@@ -1,6 +1,6 @@
 # Certifications
 
-A collection of professional certifications, course completion credentials, and technical achievements showcasing continuous learning and skill development.
+A collection of professional certifications, course completion credentials, and technical achievements  
 
 ## Certifications
 - Cohort-7 Advanced Completion Certificate
