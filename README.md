@@ -12,3 +12,4 @@
 ### ⚡ Technical Certifications
 - Digital Electronics Certification
 - RTL TO GDS NPTEL Elite Certification
+- Analog VLSI Circuit Design I
